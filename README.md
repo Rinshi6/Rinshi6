@@ -28,13 +28,14 @@ Beyond my day job, I am an avid competitive programmer who loves breaking down c
 ## 💼 Professional Experience
 
 ### **Software Development Engineer** @ Mindsprint *(May 2025 – Present)*
-* **Agentic AI Mailbox System:** Built an automated request-handling agent using LangChain and LangGraph (HITL routing). Achieved **90% automation**, saving **280 hours/month** at just **$0.056 per email**.
-* **Accounts Payable Automation:** Designed an Outlook-integrated AI workflow to extract invoice details and query OnBase systems. Maintained **95%+ accuracy** and cut manual effort by **150 hours/month**.
-* **Text-to-SQL Assistant:** Engineered an OpenAI + Snowflake assistant using LangGraph and LLM-as-a-Judge validation. Achieved **90%+ SQL accuracy** across 500+ complex business queries.
-* **User Access Management (UAM):** Replaced fragmented provisioning with a FastAPI + Microsoft SSO RBAC backend. Reduced user onboarding time by **85% for 1k+ users**.
-* **Industrial ML Optimization:** Developed an EDA and linear programming solution (PuLP) for a rubber manufacturing plant. Hit **92% prediction accuracy** and boosted production consistency by **25%**.
-* **MCP Champion:** Standardized Model Context Protocol (MCP) ecosystems and led technical workshops for 15+ engineers to accelerate internal AI agent development.
+In this role, I specialize in architecting intelligent automation systems, scaling backend infrastructure, and applying optimization algorithms to solve enterprise challenges.
 
+* **Agentic AI & Orchestration:** Design, build, and deploy production-grade intelligent systems using LangChain and LangGraph. Implement structured reasoning workflows, schema validation (Pydantic), multi-agent orchestration, and Human-in-the-Loop (HITL) routing to automate complex business workflows with up to 95% accuracy.
+* **LLM Ops & Evaluation:** Implement robust evaluation frameworks, including LLM-as-a-Judge metrics, trajectory analysis, simulation-based testing, and guardrails to minimize hallucinations and ensure predictable LLM executions.
+* **Enterprise Backend Engineering:** Architect secure, high-throughput RESTful APIs using FastAPI and Spring Boot. Optimize asynchronous database patterns, build enterprise SSO integrations (Microsoft Authentication), and implement strict Role-Based Access Control (RBAC) to support thousands of active users.
+* **Data Automation & Analytics:** Engineer reliable text-to-SQL translation engines and natural language data-retrieval systems. Optimize large-scale enterprise data queries over complex relational and cloud data warehouses like Snowflake and PostgreSQL.
+* **Industrial ML Optimization:** Conduct exploratory data analysis (EDA), feature engineering, and scale predictive models using Python. Apply operations research and linear programming techniques (PuLP) to automate raw material allocation and industrial plant parameters.
+* **Technical Leadership & Evangelism:** Pioneer internal adoption of cutting-edge developer tools and open standards like the Model Context Protocol (MCP). Document technical ecosystems and lead hands-on training workshops for engineering teams to accelerate AI initiatives.
 ---
 
 ## 🚀 Featured Projects
