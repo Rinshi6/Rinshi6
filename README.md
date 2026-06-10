@@ -40,7 +40,7 @@ In this role, I specialize in architecting intelligent automation systems, scali
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Ecommerce Chatbot](https://github.com)
+### 🛍️ [Ecommerce Chatbot](https://github.com/Rinshi6/SQL_Insight_agent)
 **Stack:** Python, LangGraph, LangChain, MLflow, Kaggle, MySQL  
 * Built a text-to-SQL AI agent querying **100K+ Olist e-commerce records** across 5 relational datasets.
 * Integrated automated SQL validation, iterative query refinement, and **MLflow** observability for prompt tracking and performance metrics.
